@@ -1,6 +1,9 @@
 # Hi, I'm Alexey 👋  
 
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Codex](https://img.shields.io/badge/codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" height="20" />
+  <img src="https://cdn.simpleicons.org/javascript" height="20" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="20" />
+  <img src="https://cdn.simpleicons.org/openai" height="20" />
+  <img src="https://cdn.simpleicons.org/web" height="20" />
+</p>
